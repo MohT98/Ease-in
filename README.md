@@ -1,5 +1,4 @@
 Online Portal to buy and Sale Property..                                                                                               
-
 Download Apk file to run application
 
 
