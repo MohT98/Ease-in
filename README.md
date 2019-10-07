@@ -1,5 +1,5 @@
 # Online Portal to buy and Sale Property..                                                                                               
-# Download Apk file to run application
+Download Apk file to run application
 
 
 <a href="url"><img src="https://citize-complain-box.000webhostapp.com/ScreenShort/Screenshot_1570440487.png" align="left" height="300" width="150" ></a>
